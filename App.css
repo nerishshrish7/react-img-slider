@@ -1,0 +1,25 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app{
+  height: 40vh;
+  width: 30vw;
+  margin-top: 20%;
+}
+.image-slider{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5vw;
+}
+button{
+  height: 7vh;
+  width: 10vw;
+}
+
+#image{
+  height: 40vh;
+  width: 16vw;
+}
